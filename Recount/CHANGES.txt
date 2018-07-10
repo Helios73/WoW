@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r1451 | Resike | 2018-01-23 19:57:58 +0000 (Tue, 23 Jan 2018) | 1 line
+Changed paths:
+   M /trunk/Recount.lua
+   M /trunk/TrackerModules/TrackerModule_PowerGains.lua
+
+- Update for 7.3.5
+------------------------------------------------------------------------
+
